@@ -1,0 +1,53 @@
+@import"../../../node_modules/bulma/sass/grid/columns.sass";
+@import"../../../node_modules/bulma/sass/components/card.sass";
+@import"../../../node_modules/bulma/sass/components/tabs.sass";
+@import"../../../node_modules/bulma/sass/elements/form.sass";
+
+
+.card{
+                position: relative;
+                margin:20px auto;
+                
+}
+#maCard{
+
+    position: relative;
+    margin:20px auto;
+    width:650px; 
+    margin-left: 400px;
+}
+
+.field{
+    margin:20px auto;
+    width:70%;
+}
+#mabody{
+    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg")
+}
+
+.section{
+    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg")
+}
+
+.image{
+    display: flex;
+}
+
+#row{
+    background-image: url("https://www.1001ppt.com/wp-content/uploads/Background/Simple/Green%20simple%20ink%20PowerPoint%20background%20picture.jpg")
+}
+
+.button{
+    width:200px;   
+}
+
+#ajouter{
+    margin-left: 45%;
+}
+
+#row{
+    margin-left: 20px;
+    margin-right: 20px; 
+}
+
+

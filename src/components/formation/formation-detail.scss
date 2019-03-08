@@ -1,0 +1,46 @@
+@import"../../../node_modules/bulma/sass/grid/columns.sass";
+@import"../../../node_modules/bulma/sass/components/card.sass";
+@import"../../../node_modules/bulma/sass/elements/form.sass";
+
+
+.card{
+
+                position: relative;
+                margin:20px auto;
+                width:650px; 
+                margin-left: 400px;
+}
+
+.field{
+    margin:20px auto;
+    width:50%;
+}
+
+.container{
+    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-05.jpg")
+}
+
+.card-footer-item{
+    margin-left: 9px;
+}
+.image{
+    display: flex;
+}
+
+#titre{
+    
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+
+}
+
+.button{
+    width:200px;   
+}
+
+#id1{
+    width:90%;   
+}
+
+

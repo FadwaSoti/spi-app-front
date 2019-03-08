@@ -1,0 +1,51 @@
+@import"../../../node_modules/bulma/sass/grid/columns.sass";
+@import"../../../node_modules/bulma/sass/components/card.sass";
+@import"../../../node_modules/bulma/sass/components/tabs.sass";
+@import"../../../node_modules/bulma/sass/elements/form.sass";
+
+
+.card{
+                position: relative;
+                margin:10px auto;
+                
+}
+
+
+label{
+    margin-left: 165px;
+
+}
+.field{
+    margin:20px auto;
+    width:600px;
+}
+
+#formee{
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/VvGXRm-hlilcbm235/abstract-background-with-dots-and-lines-abstract-network-animation-communications-connect_hicjetq__F0000.png");
+}
+
+.button{
+    width:200px;  
+}
+#IdButton{
+    margin-left: 550px; 
+}
+
+#ajouter{
+    margin-left: 37%;
+}
+
+#row{
+    margin-left: 20px;
+    margin-right: 20px; 
+}
+
+.input{
+width: 600px;
+}
+
+legend{
+
+    font-size: 25px;
+}
+
